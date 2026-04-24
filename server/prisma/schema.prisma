@@ -37,13 +37,13 @@ model   WebsiteProject {
   name            String
   initial_prompt  String
   current_code    String?
-  current_version String
+  current_version String      @default("")
   isPublished     Boolean
   userId          String
 
   user            User        @relation(fields: [userId], references: [id])
   conversations   Conversation[]
-  version       Version[]
+  version         Version[]
 
   createdAt       DateTime    @default(now())
   updatedAt       DateTime    @updatedAt
