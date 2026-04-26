@@ -1,7 +1,7 @@
 const Projects = () => {
   return (
     <div>
-        hi there from projects      
+        Projects page      
     </div>
   )
 }

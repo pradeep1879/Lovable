@@ -1,7 +1,7 @@
 const Preview = () => {
   return (
     <div>
-      hi there from preview      
+      Preview page      
     </div>
   )
 }

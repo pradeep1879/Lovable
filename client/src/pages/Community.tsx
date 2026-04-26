@@ -1,7 +1,7 @@
 const Community = () => {
   return (
    <div>
-      hi there from community      
+      Community Page      
     </div>
   )
 }

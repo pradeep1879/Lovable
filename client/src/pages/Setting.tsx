@@ -3,7 +3,7 @@
 const Setting = () => {
   return (
     <div>
-      hi there from Setting      
+      Setting page     
     </div>
   )
 }

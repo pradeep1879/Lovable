@@ -3,7 +3,7 @@
 const Pricing = () => {
   return (
     <div>
-      hi there from pricing      
+      Pricing page      
     </div>
   )
 }

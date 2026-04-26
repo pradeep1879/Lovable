@@ -1,7 +1,7 @@
 const MyProject = () => {
   return (
     <div>
-      hi there from myProject      
+      MyProject page      
     </div>
   )
 }

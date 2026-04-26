@@ -1,7 +1,7 @@
 const View = () => {
   return (
     <div>
-      hi there from view      
+      View page  
     </div>
   )
 }
